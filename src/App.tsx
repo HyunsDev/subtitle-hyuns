@@ -33,7 +33,7 @@ function App() {
                 <Background>
                     <FlexCenter>
                         <Subtitle
-                            text="세상과의조우"
+                            text="더많은더넓은"
                             delay="0.2s"
                             size="15vw"
                             period="2023"
